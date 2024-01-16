@@ -14,3 +14,4 @@ After that you can run tests against cypress-real-world-app aplication from this
 
 Or open Cypress IDE and select any test and run it in UI mode 
 ```yarn run cypress open```
+
